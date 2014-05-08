@@ -1,0 +1,19 @@
+body {
+	background: white url(http://i1253.photobucket.com/albums/hh593/WWEUniverseWWE/BryanYES1.gif) repeat top right;
+}}
+#intro {
+	border: 2px #777777 solid;
+}
+.spotlight {
+	background-color:#fefe22;
+}
+p {
+	color: red;
+}
+h1, h2, h3 {
+	color:#660033;
+	background-color #00ff00;
+	font-family:papyrus;	font-size:5em;
+	text-transform:uppercase;
+	margin:20px;
+}
